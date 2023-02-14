@@ -1,4 +1,4 @@
-# Ejercicios-PHP-POO-Tabla-segun-codigo
+# Ejercicios-PHP-SQL-Tabla-segun-codigo
 
 Dada la tabla Inscripción:
 
